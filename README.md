@@ -11,3 +11,4 @@ $$  __$$ | $$  _/   $$ |      $$ |     $$  __$$ |$$ |      $$  _$$<
   azcrack is a multitool made for cyber security and not for 𝐛𝐚𝐝 𝐡𝐚𝐫𝐦 and will not be taking responsibility for what you choose to do with it.
 
   # what azcrack has?
+  - **test**
